@@ -40,7 +40,7 @@ public class FindTheKthLargestAndKthSmallestNumberInAnArray {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the Kth Largest Number By the USer ");
 		int KthLargestNumberTaken = sc.nextInt();
-		System.out.println("The KthLargest Number is "+ arr[KthLargestNumberTaken+1]);
+		System.out.println("The KthLargest Number is "+ arr[KthLargestNumberTaken-1]);
 		
 	}
 	
@@ -49,7 +49,7 @@ public class FindTheKthLargestAndKthSmallestNumberInAnArray {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the Kth Smallest  Number By the USer ");
 		int KthLargestNumberTaken = sc.nextInt();
-		System.out.println("The KthSmallest  Number is "+ arr[KthLargestNumberTaken+1]);
+		System.out.println("The KthSmallest  Number is "+ arr[KthLargestNumberTaken-1]);
 		
 	}
 	
