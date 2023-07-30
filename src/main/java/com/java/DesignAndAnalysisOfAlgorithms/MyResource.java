@@ -10,6 +10,7 @@ import jakarta.ws.rs.core.MediaType;
  */
 @Path("myresource")
 public class MyResource {
+	
 
     /**
      * Method handling HTTP GET requests. The returned object will be sent

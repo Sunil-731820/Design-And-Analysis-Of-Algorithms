@@ -38,6 +38,10 @@
     </dependencyManagement>
 
     <dependencies>
+    <!-- https://mvnrepository.com/artifact/com.orhanobut/logger -->
+
+   
+    
         <dependency>
             <groupId>org.glassfish.jersey.containers</groupId>
             <artifactId>jersey-container-servlet-core</artifactId>
