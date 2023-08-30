@@ -21,7 +21,7 @@ public class EXample {
 	}
 
 	public static void main(String[] args) {
-//		System.out.println("The Main Method is Srtart ");
+//		System.out.println("The Main Method is Start ");
 		try {
 			System.out.println("Inside The Try ");
 			if(getResultsMethod()!=null) {
